@@ -1,0 +1,17 @@
+:root {
+  --racmuz-gray-1: #5c7588;
+  --racmuz-gray-2: #8f9bad;
+  --racmuz-gray-3: #cdcfd4;
+  --racmuz-green: #c6d300;
+  --racmuz-orange: #ec681c;
+  --racmuz-pink: #e5006d;
+  --racmuz-gradient: linear-gradient(
+    to right,
+    #ec681c 0%,
+    #e5006d 25%,
+    #5c7588 50%,
+    #8f9bad 75%,
+    #c6d300 100%
+  );
+  --racmuz-font-family: Roboto, sans-serif;
+}
